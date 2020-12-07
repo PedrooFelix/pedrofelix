@@ -43,7 +43,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://www.instagram.com/xpedrofelix/"
             className="card"
           >
             <h3>Instagram &rarr;</h3>
