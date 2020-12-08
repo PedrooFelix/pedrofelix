@@ -7,11 +7,11 @@ export default function Home() {
       <Head>
         <title>Pedro</title>
         <link rel="icon" href="This is Pedro F..png" />
+        <meta name="google-site-verification" content="LNQOm5xu392NRaQ4mdpMQ0o0f3aITYSrnIny_6yN6SY" />
       </Head>
       <main>
       <img
-              src="This is Pedro F..png"
-            />
+              src="This is Pedro F..png"/>
 
         
         <h1 className="title">
